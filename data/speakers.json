@@ -1,0 +1,131 @@
+{
+  "speakers": [
+    {
+      "id": "eric-chapman",
+      "name": "Eric Chapman",
+      "headline": "Director - Engineering Effectiveness, W.W. Grainger, Inc.",
+      "bio": "Eric Chapman is Director of Engineering Effectiveness at W.W. Grainger, Inc., leading cross-functional platform capabilities focused on improving how software is built, delivered, and scaled across the enterprise.",
+      "topics": [
+        "enterprise ai",
+        "developer experience",
+        "platform engineering",
+        "devops transformation",
+        "quality engineering"
+      ],
+      "profiles": [
+        {
+          "platform": "sched",
+          "url": "https://etlslasvegas2025.sched.com/speaker/eric_chapman.28jhids0"
+        },
+        {
+          "platform": "pluralsight",
+          "url": "https://www.pluralsight.com/events/shift-na"
+        },
+        {
+          "platform": "wcps",
+          "url": "https://wcyb.com/resources/pdf/9ad3d999-0d42-4fb5-9e5e-1bcbcaa51fa0-AISymposium.pdf"
+        },
+        {
+          "platform": "snykcon",
+          "url": "https://snykcon2020.sched.com/list/descriptions/"
+        },
+        {
+          "platform": "cdcon",
+          "url": "https://cdcon2021.sched.com/list/descriptions/"
+        }
+      ],
+      "imported_on": "2026-03-08",
+      "import_method": "web_search_snippet_extraction",
+      "needs_review": true,
+      "import_notes": "Direct Sched page returned HTTP 403 in this environment. Profile fields were captured from search-indexed snippets and should be confirmed against the live page."
+    }
+  ],
+  "talks": [
+    {
+      "speaker_id": "eric-chapman",
+      "event": "Enterprise Technology Leadership Summit, Las Vegas",
+      "event_year": 2025,
+      "title": "When Vibe Coding Doesn't Vibe: Hard Truths in Enterprise AI",
+      "date": "2025-09-25",
+      "start_time_local": "15:00",
+      "end_time_local": "15:20",
+      "timezone": "America/Los_Angeles",
+      "room": "Royal Ballroom",
+      "co_speakers": [
+        "Philip Sears"
+      ],
+      "source_url": "https://etlslasvegas2025.sched.com/speaker/eric_chapman.28jhids0",
+      "needs_review": true,
+      "import_notes": "Session timing/title/co-speaker data captured from indexed event snippets due source access restrictions."
+    },
+    {
+      "speaker_id": "eric-chapman",
+      "event": "SHIFT NA",
+      "event_year": 2025,
+      "title": "Copilot Can’t Fly Solo: Beyond the Vibes of Enterprise AI",
+      "date": "2025-10-28",
+      "start_time_local": null,
+      "end_time_local": null,
+      "timezone": null,
+      "room": null,
+      "co_speakers": [
+        "Patrick Egan"
+      ],
+      "source_url": "https://www.pluralsight.com/events/shift-na",
+      "needs_review": true,
+      "import_notes": "Event range is October 27-29, 2025, with speaking date confirmed by author as October 28, 2025. Session time/location pending confirmation."
+    },
+    {
+      "speaker_id": "eric-chapman",
+      "event": "Authentic Trailblazing: Innovating Ethically in the Age of AI",
+      "event_year": 2025,
+      "title": "AI in Practice & Innovation",
+      "date": "2025-11-17",
+      "start_time_local": "08:00",
+      "end_time_local": "15:00",
+      "timezone": "America/New_York",
+      "room": "Southwest Virginia Higher Education Center, Abingdon",
+      "co_speakers": [
+        "Nita Farahany",
+        "Anne Trumbore"
+      ],
+      "source_url": "https://wcyb.com/resources/pdf/9ad3d999-0d42-4fb5-9e5e-1bcbcaa51fa0-AISymposium.pdf",
+      "needs_review": false,
+      "import_notes": "Event title, schedule, location, and speaker lineup provided by author with source PDF and registration link."
+    },
+    {
+      "speaker_id": "eric-chapman",
+      "event": "SnykCon 2020",
+      "event_year": 2020,
+      "title": "Utilizing Dojos to Instill a Culture of DevSecOps",
+      "date": "2020-10-22",
+      "start_time_local": "19:40",
+      "end_time_local": "20:10",
+      "timezone": "Europe/London",
+      "room": "Process & Culture Track",
+      "co_speakers": [],
+      "source_url": "https://snykcon2020.sched.com/list/descriptions/",
+      "needs_review": true,
+      "import_notes": "Session details extracted from archived SnykCon 2020 Sched listing snippet; verify against canonical event page if needed."
+    },
+    {
+      "speaker_id": "eric-chapman",
+      "event": "cdCon 2021",
+      "event_year": 2021,
+      "title": "The Impact of Continuous Delivery on Digital Transformations",
+      "date": "2021-06-24",
+      "start_time_local": "10:45",
+      "end_time_local": "11:25",
+      "timezone": "America/New_York",
+      "room": "Community Track",
+      "co_speakers": [
+        "Tiffany Jachja",
+        "James Jones",
+        "Lindsey Yeadon"
+      ],
+      "source_url": "https://cdcon2021.sched.com/list/descriptions/",
+      "needs_review": true,
+      "import_notes": "Session details extracted from archived cdCon 2021 Sched listing snippet; verify against canonical event page if needed."
+    }
+  ]
+}

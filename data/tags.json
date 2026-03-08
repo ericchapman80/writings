@@ -1,0 +1,112 @@
+{
+  "tags": [
+    {
+      "tag": "devops",
+      "count": 5
+    },
+    {
+      "tag": "enterprise-transformation",
+      "count": 5
+    },
+    {
+      "tag": "leadership",
+      "count": 4
+    },
+    {
+      "tag": "platform-engineering",
+      "count": 3
+    },
+    {
+      "tag": "quality-engineering",
+      "count": 3
+    },
+    {
+      "tag": "ci-cd",
+      "count": 2
+    },
+    {
+      "tag": "developer-experience",
+      "count": 2
+    },
+    {
+      "tag": "engineering-leadership",
+      "count": 2
+    },
+    {
+      "tag": "jenkins",
+      "count": 2
+    },
+    {
+      "tag": "kubernetes",
+      "count": 2
+    },
+    {
+      "tag": "testing",
+      "count": 2
+    },
+    {
+      "tag": "agile",
+      "count": 1
+    },
+    {
+      "tag": "application-modernization",
+      "count": 1
+    },
+    {
+      "tag": "collaboration",
+      "count": 1
+    },
+    {
+      "tag": "communication",
+      "count": 1
+    },
+    {
+      "tag": "community",
+      "count": 1
+    },
+    {
+      "tag": "devsecops",
+      "count": 1
+    },
+    {
+      "tag": "enterprise-quality",
+      "count": 1
+    },
+    {
+      "tag": "fluency-model",
+      "count": 1
+    },
+    {
+      "tag": "github",
+      "count": 1
+    },
+    {
+      "tag": "governance",
+      "count": 1
+    },
+    {
+      "tag": "innersource",
+      "count": 1
+    },
+    {
+      "tag": "remote-work",
+      "count": 1
+    },
+    {
+      "tag": "software-supply-chain",
+      "count": 1
+    },
+    {
+      "tag": "strategy",
+      "count": 1
+    },
+    {
+      "tag": "team-collaboration",
+      "count": 1
+    },
+    {
+      "tag": "transformation",
+      "count": 1
+    }
+  ]
+}
