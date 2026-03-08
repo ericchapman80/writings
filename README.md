@@ -37,6 +37,8 @@ It is designed for long-term maintainability, clean reuse across channels, and s
 | `data/redirects.json` | Canonical writing route mappings |
 | `data/speakers.json` | Structured speaker and session metadata |
 | `docs/CONTENT_MODEL.md` | Content model and schema decisions |
+| `docs/SYNDICATION_STRATEGY.md` | Multi-channel publishing strategy and channel policy |
+| `docs/SYNDICATION_VERSIONING.md` | SemVer model for article republish decisions |
 | `docs/NEXT_STEPS.md` | Future roadmap (not yet implemented) |
 | `scripts/` | Validation, generation, and normalization tooling |
 
